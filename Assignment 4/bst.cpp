@@ -1,5 +1,4 @@
 // Charlie Orch
-// A04751172
 // Assignment 4: Binary Search Tree
 
 #include <iostream>
