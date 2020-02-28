@@ -1,5 +1,4 @@
 // Charlie Orch
-// A04751172
 #include <iostream>
 #include <string>
 #include "myStack.h"
