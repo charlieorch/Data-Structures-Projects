@@ -1,5 +1,4 @@
-// Charlie Orcg
-// A04751172
+// Charlie Orch
 #include <iostream>
 
 using namespace std;
