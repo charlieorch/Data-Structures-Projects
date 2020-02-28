@@ -1,5 +1,4 @@
 // Charlie Orch
-// A04751172
 #ifndef myQueue_H
 #define myQueue_H
 #define MAX 1000
