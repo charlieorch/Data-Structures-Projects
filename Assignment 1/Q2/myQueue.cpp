@@ -1,5 +1,4 @@
 // Charlie Orch
-// A04751172
 #include "myQueue.h"
 #include <iostream>
 using namespace std;
