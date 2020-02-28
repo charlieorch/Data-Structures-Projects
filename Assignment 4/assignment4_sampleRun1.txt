@@ -1,0 +1,95 @@
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 20
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 19
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 18
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 17
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 16
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 15
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 14
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 13
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 12
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 12
+
+12 is an existing key. No new node has been inserted
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 1 
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 2
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 3
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 4
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 5
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 7
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 6
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 8
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 9
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 10
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: 11
+
+Inserting a new node....
+Please enter an integer between 0 and 99 as the key, and enter -1 to stop and to see the resulting tree: -1
+
+Print the resulting tree (left-rotated):
+
+20
+	19
+		18
+			17
+				16
+					15
+						14
+							13
+								12
+																	11
+																	10
+																9
+															8
+														7
+															6
+													5
+												4
+											3
+										2
+									1
+preOrderTraversal: 20  19  18  17  16  15  14  13  12  1  2  3  4  5  7  6  8  9  10  11  
+postOrderTraversal: 6  11  10  9  8  7  5  4  3  2  1  12  13  14  15  16  17  18  19  20  
+inOrderTraversal: 1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  
+Searching a key....
+Please enter an integer between 0 and 99 as the key to search, and enter -1 to stop searching: -1
+
